@@ -4,8 +4,13 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusstaGabe&show_icons=true&theme=radical)
 
+<div>
+   <a href="https://github.com/Gusstagabe">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugsinwork&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugsinwork&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
 
 <hr>
 
